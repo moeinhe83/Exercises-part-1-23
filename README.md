@@ -4,13 +4,9 @@ Question Number ===> 23
 
 Programming Language ===> Python
 
-Program description ===> 23th Exercise
+Program Description ===> 23th Exercise
 
 Example ===> Write A Program That Gives Us Numbers From 1 To 10
-
-List A => a = [1, 2, 3, 4, 5]
-
-List B => b = [4, 5, 6, 7, 8]
 
 Description Of Files:
 
