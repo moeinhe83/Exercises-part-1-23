@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> 23th Exercise
 
-Example ===> Write A Program That Shows The Difference Between The Following Two Lists
+Example ===> Write A Program That Gives Us Numbers From 1 To 10
 
 List A => a = [1, 2, 3, 4, 5]
 
